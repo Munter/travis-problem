@@ -1,0 +1,19 @@
+{
+  "name": "travis-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "unexpected": "^10.4.0"
+  },
+  "dependencies": {
+    "node-sass": "^3.4.2",
+    "node-zopfli": "^1.4.0"
+  }
+}
