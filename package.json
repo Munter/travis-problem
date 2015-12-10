@@ -13,7 +13,7 @@
     "unexpected": "^10.4.0"
   },
   "dependencies": {
-    "node-sass": "^3.4.2",
-    "node-zopfli": "^1.4.0"
+    "node-sass": "3.4.2",
+    "node-zopfli": "1.4.0"
   }
 }
